@@ -1,5 +1,5 @@
 
-Here’s a professional and detailed README.md tailored for your Virtual Card Holder Flutter App:
+
 
 Smart contact scanner app
 an App that helps users organize and interact with their business cards efficiently. This app offers powerful features like calling, texting, emailing, viewing personal websites, GPS location viewing, and business card scanning.
